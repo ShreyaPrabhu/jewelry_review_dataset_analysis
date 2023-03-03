@@ -14,10 +14,15 @@ Data cleaning steps
 
 Feature Extraction
 - TF-IDF
+- Word2Vec
 
 Models tried
 - Perceptron
 - SVM
 - Logistic Regression
 - Multinomial Naive Bayes
+- FNN with weighted features
+- FNN with concatenated features
+- RNN
+- GRU
 
